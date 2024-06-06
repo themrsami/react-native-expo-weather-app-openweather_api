@@ -7,7 +7,7 @@ This React Native Expo Weather app provides real-time weather information based 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/themrsami/React-Native-Whether-App.git](https://github.com/themrsami/react-native-expo-weather-app-openweather_api.git
+git clone https://github.com/themrsami/react-native-expo-weather-app-openweather_api.git
 ```
 
 
