@@ -41,5 +41,6 @@ Author: @themrsami
 
 ![permission](https://github.com/themrsami/react-native-expo-weather-app-openweather_api/assets/91170768/637cc9ea-6c68-4b7c-b6d1-ef0b7fcde48a)
 
-
 ![app](https://github.com/themrsami/react-native-expo-weather-app-openweather_api/assets/91170768/3213d5a5-d1e3-4bb0-bf52-18294f23222a)
+
+
